@@ -3,21 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnichols108&label=Profile%20views&color=0e75b6&style=flat" alt="bnichols108" /> </p>
 
-- 🔭 I’m currently working on [PicoCTF challenges in this repo](https://github.com/bnichols108/PicoCTF)
+- 🔭 I’m currently working on: [PicoCTF challenges in this repo](https://github.com/bnichols108/PicoCTF)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Terraform, AWS, and Cybersecurity**
+- 💯 Current PicoGym score: **1360**
 
-- 💬 Ask me about **Linux, MySQL**
+- 🌱 I’m currently learning: **Docker, Kubernetes, Jenkins, Terraform, AWS, and Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bnichols108](https://github.com/bnichols108)
+- 💬 Ask me about: **Linux, MySQL**
 
-- 💾 My codewars rank [https://www.codewars.com/users/bnichols108](https://www.codewars.com/users/bnichols108)
+- 👨‍💻 All of my projects are available at: [https://github.com/bnichols108](https://github.com/bnichols108)
 
-- 📝 I regularly review articles on [https://www.bestcolleges.com/bootcamps/](https://www.bestcolleges.com/bootcamps/)
+- 💾 My Codewars rank: [https://www.codewars.com/users/bnichols108](https://www.codewars.com/users/bnichols108)
 
-- 📫 You can me reach me at **bnichols108@gmail.com**
+- 📝 I regularly review articles on: [https://www.bestcolleges.com/bootcamps/](https://www.bestcolleges.com/bootcamps/)
 
-- ⚡ Fun fact **I've won a demolition derby!**
+- 📫 You can me reach me at: **bnichols108@gmail.com**
+
+- ⚡ Fun fact: **I've won a demolition derby!**
 
 
 
