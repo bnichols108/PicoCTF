@@ -17,7 +17,7 @@
 
 - 📫 You can me reach me at **bnichols108@gmail.com**
 
-- ⚡ Fun fact **I've won a demolition derby before!**
+- ⚡ Fun fact **I've won a demolition derby!**
 
 
 
