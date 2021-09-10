@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: [PicoCTF challenges in this repo](https://github.com/bnichols108/PicoCTF)
 
-- 💯 Current PicoGym score: **1360**
+- 💯 Current PicoGym score: **1370**
 
 - 🌱 I’m currently learning: **Docker, Kubernetes, Jenkins, Terraform, AWS, and Cybersecurity**
 
