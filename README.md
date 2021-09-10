@@ -1,24 +1,25 @@
-# PicoCTF
-Collection of my resolutions for the PicoCTF challenges
-
 <h1 align="center">Hi 👋, I'm Brian Nichols</h1>
-<h3 align="center">A passionate DevOps Engineer from the United States.</h3>
+<h3 align="center">A DevOps Engineer who is passionate about DevOps, Security, and Coding from the United States.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnichols108&label=Profile%20views&color=0e75b6&style=flat" alt="bnichols108" /> </p>
 
-- 🔭 I’m currently working on [PicoCTF](https://github.com/bnichols108/PicoCTF)
+- 🔭 I’m currently working on [PicoCTF challenges in this repo](https://github.com/bnichols108/PicoCTF)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Terraform, AWS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/bnichols108](https://github.com/bnichols108)
-
-- 📝 I regularly review articles on [https://www.bestcolleges.com/bootcamps/](https://www.bestcolleges.com/bootcamps/)
+- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Terraform, AWS, and Cybersecurity**
 
 - 💬 Ask me about **Linux, MySQL**
 
-- 📫 How to reach me **bnichols108@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/bnichols108](https://github.com/bnichols108)
+
+- 💾 My codewars rank [https://www.codewars.com/users/bnichols108](https://www.codewars.com/users/bnichols108)
+
+- 📝 I regularly review articles on [https://www.bestcolleges.com/bootcamps/](https://www.bestcolleges.com/bootcamps/)
+
+- 📫 You can me reach me at **bnichols108@gmail.com**
 
 - ⚡ Fun fact **I've won a demolition derby before!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
